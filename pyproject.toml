@@ -14,6 +14,7 @@ matplotlib = "^3.8.4"
 pandas = "^2.2.2"
 pyqt6 = "^6.7.0"
 datasets = {extras = ["audio"], version = "^2.19.0"}
+gradio = "^4.29.0"
 
 
 [build-system]
